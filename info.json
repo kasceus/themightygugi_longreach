@@ -1,0 +1,11 @@
+{
+  "name": "themightygugi_longreach",
+  "version": "1.18.2",
+  "factorio_version": "0.18",
+  "dependencies": ["base >= 0.18.0"],
+  "title": "Long and Far Reach",
+  "author": "Themightygugi",    
+  "description": "Long Reach. Fixed the problems in existing long reach mods by Mooncat and jamesaguilar (and probably others). I will remove when the other authors maintain their mods or by request."
+}
+
+    
