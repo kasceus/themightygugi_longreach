@@ -24,7 +24,11 @@ end
 function On_Init() apply_settings() end
 function On_Change() apply_settings() end
 
-script.on_init(function() On_Init() end)
+script.on_init(function()
+    global = global or {} -- Ensure `global` is initialized before calling On_Init
+    On_Init()
+end)
+
 script.on_configuration_changed(function() On_Change() end)
 script.on_event(defines.events.on_runtime_mod_setting_changed,function () apply_settings() end)
 Event.register(defines.events.on_player_joined_game, set_join_options)
