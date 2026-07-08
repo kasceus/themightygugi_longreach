@@ -1,11 +1,9 @@
 {
-  "name": "themightygugi_longreach_forked",
-  "version": "2.2.4",
-  "factorio_version": "2.1",
-  "dependencies": ["base >= 1.0.0"],
-  "title": "Long and Far Reach FORKED",
-  "author": "kasceus",    
-  "description": "Long Reach. You can interact with most entities in the game far away. You can even use the map and zoom in and interact this way, as long as there is radar coverage."
+    "name": "themightygugi_longreach_forked",
+    "version": "2.2.5",
+    "factorio_version": "2.1",
+    "dependencies": [ "base >= 2.1.0" ],
+    "title": "Long and Far Reach FORKED",
+    "author": "kasceus",
+    "description": "Long Reach. You can interact with most entities in the game far away. You can even use the map and zoom in and interact this way, as long as there is radar coverage."
 }
-
-    

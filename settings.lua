@@ -6,7 +6,7 @@ data:extend(
         setting_type = "runtime-global",
         default_value = 1000,    
         maximum_value = 1000,
-        minimum_value = 0
+        minimum_value = 1
    },
    {
         type = "int-setting",
@@ -14,7 +14,7 @@ data:extend(
         setting_type = "runtime-global",
         default_value = 1000,    
         maximum_value = 1000,
-        minimum_value = 0
+        minimum_value = 1
     },
     {
         type = "int-setting",
@@ -22,7 +22,7 @@ data:extend(
         setting_type = "runtime-global",
         default_value = 1000,    
         maximum_value = 1000,
-        minimum_value = 0
+        minimum_value = 1
     },
     {
         type = "int-setting",
@@ -30,7 +30,7 @@ data:extend(
         setting_type = "runtime-global",
         default_value = 1000,    
         maximum_value = 1000,
-        minimum_value = 0
+        minimum_value = 1
     }
 }
 )
