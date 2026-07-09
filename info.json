@@ -1,6 +1,6 @@
 {
     "name": "themightygugi_longreach_forked",
-    "version": "2.2.5",
+    "version": "2.2.6",
     "factorio_version": "2.1",
     "dependencies": [ "base >= 2.1.0" ],
     "title": "Long and Far Reach FORKED",

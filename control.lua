@@ -30,7 +30,7 @@ end
 local function apply_settings()    
     --game.print("apply settings")
     var_check()
-    game.print("user reach distance = "  .. userReachDistanceBonus)
+    --game.print("user reach distance = "  .. userReachDistanceBonus)
     game.forces["player"].character_build_distance_bonus = userSetBuildDistance
     game.forces["player"].character_item_drop_distance_bonus = userDropDistanceBonus
     game.forces["player"].character_reach_distance_bonus = userReachDistanceBonus
